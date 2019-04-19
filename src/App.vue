@@ -7,7 +7,8 @@
         @open="handleOpen"
         @close="handleClose"
       >
-        <span v-html="initMenuConfig(this.menuConfig)"></span>
+        
+        
       </el-menu>
     </el-aside>
     <el-container>
